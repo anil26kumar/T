@@ -7,3 +7,5 @@ else
 run
 else if
 dance
+else 
+fight now
