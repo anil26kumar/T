@@ -1,6 +1,7 @@
 hungry
 if (hungry)
 eat chips
+eat burger
 
 else
 run
