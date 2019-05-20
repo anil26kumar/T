@@ -5,3 +5,5 @@ eat burger
 
 else
 run
+else if
+dance
