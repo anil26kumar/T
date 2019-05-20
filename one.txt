@@ -5,5 +5,10 @@ eat burger
 
 else
 run
+<<<<<<< HEAD
 
 I am updating master
+=======
+else if
+dance
+>>>>>>> tasty
