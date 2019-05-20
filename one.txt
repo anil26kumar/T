@@ -9,3 +9,4 @@ else if
 dance
 else 
 fight now
+add shapes
