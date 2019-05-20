@@ -11,4 +11,9 @@ I am updating master
 =======
 else if
 dance
+<<<<<<< HEAD
+>>>>>>> tasty
+=======
+else 
+fight now
 >>>>>>> tasty
