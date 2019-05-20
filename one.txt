@@ -1,5 +1,6 @@
 hungry
 if (hungry)
-eat
+eat chips
+
 else
 run
