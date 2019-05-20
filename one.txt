@@ -1,1 +1,5 @@
 hungry
+if (hungry)
+eat
+else
+run
